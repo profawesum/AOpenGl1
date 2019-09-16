@@ -19,9 +19,9 @@ C:
  
  
 B:
- - Add a movable camera to move the camera front and back to see the cube change to fog color.(Camera currently rotates)
+ - Add a movable camera to move the camera front and back to see the cube change to fog color.(Camera Now Rotates and Moves, does not yet    change fog color)
  
  
 A:
- - Apply fog effect on all objects in the scene including the water surface and quad underneath it and stencilled object. Make clearscreen    color the same color as the fog. 
+ - Apply fog effect on all objects in the scene including the water surface and quad underneath it and stencilled object. Make clearscreen    color the same color as the fog.(The fog is applied to the transparent surface and the one under it, there is no stencilled object yet    and the clearscreen color is not the same as the fog color) 
  - Enable mouse picking on a quad and use it as a button. Create 2 buttons to move the camera back and front in the scene.
